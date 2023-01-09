@@ -1,1 +1,96 @@
+This is the Data_base for the AI project:
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Proposition de projet IA 
+
+Gabriel BLANCHET & Alexandre LEROYER 
+
+Mention OCENE 
+
+Rendu pour le 3 janvier 2023 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Description 
+
+ 
+
+Ce projet consistera à concevoir une IA pour de la reconnaissance d’image. L’objectif est de reconnaitre différents composants électroniques tel que des résistances, condensateurs … 
+
+On peut imaginer que cette intelligence artificielle pourrait être utile lors de la mise en inventaire de composant. Par exemple, ce projet pourrait faire partie d’un système de triage de composant. On peut aussi penser qu’on pourrait l’utiliser pour analyser les différents composants sur un circuit pour voir s’ils sont bien tous présents. 
+
+ 
+
+Le but à la fin du projet est de : 
+
+Obligatoire : 
+
+Détecter transistor 
+
+Détecter résistance 
+
+Détecter condensateur 
+
+Détecter circuit intégré 
+
+Détecter LED 
+
+Si on a du temps : 
+
+Lecture des valeurs/références des composants 
+
+ 
+
+Nous nous servirons d’une base d’image trouvé sur Kaggle. Elles comptent un certain nombre d’image de chaque composant cité ci-dessus.  
+
+N’ayant jamais travaillé sur une IA, il est difficile de juger la puissance de calcul nécessaire. 
+
+ 
+
+État de l’art 
+
+ 
+
+Il existe actuellement plusieurs IA qui ont pour missions la reconnaissance de composant, principalement dans l’industrie. Elles analysent les circuits électroniques, comptent le nombre de composant, vérifient qu’ils sont bien placés et détectent de potentiel erreurs d’assemblages. 
+
+Ces IA ne sont pas, d’après nos recherches, ouverte au public pour la simple et bonne raison qu’elles sont des enjeux dans l’industrie pour la qualité de fabrication des PCB. 
+
+ 
+
+Quelques liens concernant ces IA : 
+
+https://www.hindawi.com/journals/mpe/2020/2940286/ 
+
+https://www.vyrian.com/how-ai-and-machine-learning-is-helping-in-quality-management-of-electronic-components/ 
+
+https://www.analogictips.com/what-ai-can-bring-to-pcb-manufacturing/ 
+
+ 
